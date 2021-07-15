@@ -6,10 +6,9 @@ Setting up a smart, convenient checkout page helps you influence the shopping be
 
 [**One page checkout for Magento 2**](https://magepow.com/magento-2-one-step-checkout.html) rleased by Magepow team, allowing customer checkout process to happen in just one step. Integrating many outstanding features, this is a useful tool for any e-commerce website.
 
+![Magento 2 One page checkout](https://github.com/magepow/magento-2-one-step-checkout/blob/main/media/Checkout.png)
+
 ### General information
-
-
-
 - **Shorten the check-out process**
 
 After clicking the CTA button on the shopping cart page, the customer will be redirected directly to the checkout page. Here, they can see an overview of the payment process.
@@ -27,6 +26,8 @@ With all Magepow products, you only need to download and install them once and u
 If you have any need for customization or support during the use of the product, check them out [here](https://magepow.com/magento-2-one-step-checkout.html).
 
 ### Highlight Features
+
+![Magento 2 One page checkout config]https://github.com/magepow/magento-2-one-step-checkout/blob/main/media/config_onepagecheckout.png)
 
 - Optional title, description for checkout page
 
