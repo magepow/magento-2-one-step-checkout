@@ -4,7 +4,7 @@ In fact, there are 2 reasons why customers leave the checkout page. The first re
 
 Setting up a smart, convenient checkout page helps you influence the shopping behavior of your customers, eliminating factors that hinder their shopping process.
 
-[**One page checkout for Magento 2**](https://magepow.com/magento-2-one-step-checkout.html) rleased by Magepow team, allowing customer checkout process to happen in just one step. Integrating many outstanding features, this is a useful tool for any e-commerce website.
+[**One page checkout for Magento 2**](https://magepow.com/magento-2-one-step-checkout.html) released by Magepow team, allowing customer checkout process to happen in just one step. Integrating many outstanding features, this is a useful tool for any e-commerce website.
 
 ![Magento 2 One page checkout](https://github.com/magepow/magento-2-one-step-checkout/blob/main/media/Checkout.png)
 
