@@ -27,8 +27,6 @@ If you have any need for customization or support during the use of the product,
 
 ### Highlight Features
 
-![Magento 2 One page checkout config]https://github.com/magepow/magento-2-one-step-checkout/blob/main/media/config_onepagecheckout.png)
-
 - Optional title, description for checkout page
 
 - Shipping method options: Flat Rate or Best way
@@ -64,6 +62,8 @@ If you have any need for customization or support during the use of the product,
 - Optional non-delivery date. That means the goods will not be shipped on these days.
 
 - Checkout Page Configuration options: heading background color, heading text color, material color, place order button color or make a custom css
+
+![Magento 2 One page checkout config](https://github.com/magepow/magento-2-one-step-checkout/blob/main/media/config_onepagecheckout.png)
 
 ## User Guide
 ### How to install Magento 2 One page checkout
