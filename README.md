@@ -1,3 +1,5 @@
+[<img src="https://github.com/magepow/themeforest/blob/master/shopify/shopify_affiliate.jpg" >](https://shopify.pxf.io/VyL446)
+
 ## Magento 2 One step checkout 
 
 In fact, there are 2 reasons why customers leave the checkout page. The first reason is related to the product (price, review), and the second reason is due to the checkout process.
